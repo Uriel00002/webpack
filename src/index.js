@@ -3,8 +3,8 @@ const $name = document.querySelector('h1');
 
 const data = 
 {
-    name: "Oscar Barajas",
-    nickname: "gndx",
+    name: "Uriel Lopez",
+    nickname: "Leir",
     description: "...",
     avatar: "...",
     social: 
